@@ -1,2 +1,3 @@
 Hello Git
 Hello Git version2
+ERROR: version3 committed bug
